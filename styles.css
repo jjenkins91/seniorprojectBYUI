@@ -1,0 +1,165 @@
+a {
+  padding-top: 15px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+a:hover {
+  font-size: 23px;
+  color: grey;
+}
+
+body {
+  background-color: f8f7de;
+  margin: 0;
+  text-align: center;
+}
+
+.aboutme-paragraph {
+  height: 400px;
+  width: 400px;
+  font-size: 24px;
+  text-align: center;
+  /* background-color: green; */
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.cart-phrase {
+  padding-top: 50px;
+  font-size: 34px;
+  font-style: italic;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.center2 {
+text-align: center;
+}
+
+.center-polish {
+  display: flex;
+  justify-content: center;
+}
+
+.copyright {
+  font-size: 14px;
+}
+
+.homeImage {
+  height: 868px;
+  width: 1528px;
+}
+
+.first-row-polish {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo-image {
+  padding-top: 50px;
+}
+
+.middle-container-aboutme {
+  height: 550px;
+  width: 1200px;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.middle-container-cart {
+  text-align: center;
+  height: 650px;
+  width: auto;
+}
+
+.middle-container-home {
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+
+.middle-container-polish {
+  height: auto;
+  width: 1200px;
+}
+
+.middle-container-tutorials {
+  height: 650px;
+}
+
+.nail-image {
+  height: 514px;
+  width: 414px;
+}
+
+.second-row-polish {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.third-row-polish {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.tool {
+  width: 269px;
+  height: 202px;
+}
+
+.tool-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 400px;
+  width: 800px;
+}
+
+.top-container {
+  height: 50px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /* background-color: blue; */
+}
+
+.sunflower {
+  height: 400px;
+  width: 400px;
+}
+
+.vision-statement {
+  height: 400px;
+  width: 400px;
+}
+
+#all-polishes {
+  color: #ffabe1;
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+#all-polishes:hover {
+  color: #a685e2;
+  font-weight: bolder;
+  font-size: 50px;
+}
